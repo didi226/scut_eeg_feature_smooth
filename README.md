@@ -26,6 +26,8 @@ Simple demo for SSVEP detection methods.
 
 ```python
 from scut_eeg_feature_smooth import feature_smooth
+data = np.random.rand(60, 3, 500)
+feature2 = feature_smooth(data,smooth_type="NDS-UKF",window_size=10)
 ```
 
 ## Cite 

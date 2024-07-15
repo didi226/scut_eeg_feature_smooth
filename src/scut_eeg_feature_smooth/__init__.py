@@ -1,0 +1,1 @@
+from scut_eeg_feature_smooth.feature_smooth import feature_smooth

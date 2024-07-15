@@ -1,0 +1,25 @@
+requests
+einops
+mne_features
+EMD-signal
+scipy
+PyWavelets
+pyts
+antropy
+pyentrp
+tftb
+statsmodels
+scipy
+emd-signal
+pyentrp
+nolds
+pactools
+EntropyHub
+pykalman
+mne_connectivity
+spkit
+fooof
+nilearn
+
+[:python_version >= "3.8"]
+importlib-metadata

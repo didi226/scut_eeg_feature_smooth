@@ -1,0 +1,6 @@
+setup.py
+src/scut_eeg_feature_smooth.egg-info/PKG-INFO
+src/scut_eeg_feature_smooth.egg-info/SOURCES.txt
+src/scut_eeg_feature_smooth.egg-info/dependency_links.txt
+src/scut_eeg_feature_smooth.egg-info/requires.txt
+src/scut_eeg_feature_smooth.egg-info/top_level.txt

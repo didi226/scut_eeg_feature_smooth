@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: scut_eeg_feature_smooth
+Version: 0.0.1
+Summary: EEG feature smooth
+Author: Di Chen
+Author-email: 3517725675@qq.com
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: importlib-metadata; python_version >= "3.8"
+Requires-Dist: einops
+Requires-Dist: mne_features
+Requires-Dist: EMD-signal
+Requires-Dist: scipy
+Requires-Dist: PyWavelets
+Requires-Dist: pyts
+Requires-Dist: antropy
+Requires-Dist: pyentrp
+Requires-Dist: tftb
+Requires-Dist: statsmodels
+Requires-Dist: scipy
+Requires-Dist: emd-signal
+Requires-Dist: pyentrp
+Requires-Dist: nolds
+Requires-Dist: pactools
+Requires-Dist: EntropyHub
+Requires-Dist: pykalman
+Requires-Dist: mne_connectivity
+Requires-Dist: spkit
+Requires-Dist: fooof
+Requires-Dist: nilearn
